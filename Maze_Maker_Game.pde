@@ -1,5 +1,5 @@
 //Maze game that uses a maze making algorithom
-//By Joshua Kane
+//By JoshDKane
 
 int cols, rows;
 int dx, dy;
